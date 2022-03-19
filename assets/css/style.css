@@ -27,7 +27,7 @@ header a{
     color: #fce138
 }
 
-header nav{
+header nav {
     float: right;
     margin: 7px 0;
 }
@@ -65,19 +65,19 @@ footer a {
     color: #024e76;
 }
 
-section{
+section {
     padding: 60px;
 }
 
 /* Hero Style Start */
-.hero{
+.hero {
     background-image: url("../images/hero-bg.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
 }
-.hero-form{
+.hero-form {
     border: 3px solid #024e76;
     background-color: #fce138;
     padding: 20px;
@@ -87,11 +87,11 @@ section{
     bottom: 120px;
     right: 140px;
 }
-.hero-form h3{
+.hero-form h3 {
     font-size: 24px;
     margin:0;
 }
-.hero-form p{
+.hero-form p {
     margin: 5px 0 15px 0;
 }
 .form-input {
