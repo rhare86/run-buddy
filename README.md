@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://learnantino.github.io/run-buddy/
 
 ## Contribution
-Made with love by Ron Hare
+Made with ❤️ by Ron Hare
 
 ### c2019 Run Buddy Inc.
