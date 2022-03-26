@@ -13,4 +13,4 @@ https://learnantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Ron Hare
 
-### c2019 Run Buddy Inc.
+### ©2019 Run Buddy, Inc
