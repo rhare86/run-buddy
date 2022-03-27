@@ -203,7 +203,7 @@ align-items: center;
 }
 
 .step-img{
-    flex 1 12%;
+    flex: 1 12%;
     margin-right: 20px;
 }
 
